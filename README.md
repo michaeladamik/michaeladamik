@@ -41,7 +41,7 @@
 <br /><br />
 
 [linkedin]: https://www.linkedin.com/in/michael-adamik-53b9b9183/
-[website]: https://madamik.com
+[website]: coming_soon!
 [email]: mailto:madamik@ncsu.edu
 
 
