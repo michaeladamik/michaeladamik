@@ -1,7 +1,6 @@
 ### Hello there, I'm Michael Adamik 👋
 
 ## I'm a Student and Developer
-- :mortar_board: I'm a junior majoring in Computer Science :computer: at NC State
 - :fire: I'm working on many projects in Java <img alt="Java logo" width="18pt" src="https://sdc.csc.ncsu.edu/img/techres/java-logo.svg" /> and Pyhton <img alt="Python logo" width="18pt" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />
 - :star2: My favorite programming language is Java <img alt="Java logo" width="18pt" src="https://sdc.csc.ncsu.edu/img/techres/java-logo.svg" />
 -  🥅 2021 Goal: Work on more projects in Python <img alt="Python logo" width="18pt" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" /> and other programming languages 
